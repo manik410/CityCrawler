@@ -26,14 +26,18 @@ nearby Colleges available.
 - Java tables
 - Api Integration using Java
 
-### Website-Url
-[Click ME!...](https://manik410.github.io/Assessment-Project/)
 
 ### Apis-Used
 - Open Weather Map API
   - [Api to get latitude and longitude from city name](https://api.openweathermap.org/data/2.5/weather?q=ludhiana&units=metric&APPID=874f47a9ffe5635ee597c21bfad2e0e4)
 - Google Maps
    - [Api to access location names](https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=30.9,75.8&radius=1200&type=school&key=AIzaSyA7egNi5VZq9FnTuD-XFvRcZcYFqmsCNJE)
-    
-### Home-Page
-![Home-Page](https://github.com/manik410/Assessment-project/blob/master/img/home.png)
+
+
+
+### City-Crawler(User-View)
+![User-View](https://github.com/manik410/CityCrawler/blob/master/img/home.png)
+
+
+### Output
+![Output](https://github.com/manik410/CityCrawler/blob/master/img/output.png)
